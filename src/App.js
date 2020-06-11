@@ -1,13 +1,13 @@
 import React from 'react';
-import Nav from './components/Header/index.js';
+import Nav from './components/Nav/index.js';
 import Footer from './components/Footer/footer.js';
-import Hero from './components/sectionOne/hero.js';
+import Main from './components/Main/index.js';
 
 function App() {
   return (
     <div>
       <Nav />
-      <Hero />
+      <Main />
       <Footer />
     </div>
   );

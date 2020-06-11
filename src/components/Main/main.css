@@ -1,0 +1,55 @@
+body {
+  overflow-x: hidden;
+  background-color: #131212;
+  color: white;
+}
+ul {
+  list-style-type: none;
+}
+
+/* .hero-section {
+  height: 85vh;
+} */
+
+.main-img {
+  height: auto;
+  width: 600px;
+}
+
+.offers {
+  height: auto;
+  width: 300px;
+}
+
+.background-video {
+  /* position: fixed; */
+  height: auto;
+  width: 100%;
+  z-index: -1;
+}
+
+.section-two {
+  height: 600px;
+}
+
+/* form control */
+.form-control {
+  width: 500px;
+}
+
+.message-control {
+  width: 100%;
+  max-height: 300px;
+  min-height: 200px;
+}
+
+/* button styles */
+.main-button {
+  background-color: #ee2329;
+  color: white;
+  width: 100px;
+}
+
+.main-button:hover {
+  background-color: white;
+}
