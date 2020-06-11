@@ -18,6 +18,9 @@ export default function Main() {
         muted>
         <source src={video} type='video/mp4' />
       </video>
+
+      {/* start of section two */}
+
       <section className='section-two mb-5 py-5'>
         <div className='container-fluid'>
           <div className='row my-5'>
@@ -59,7 +62,7 @@ export default function Main() {
       </section>
 
       <section className='section-three'>
-        <div className='container-fluid'>
+        <div className='container-fluid mx-auto'>
           <div className='row'>
             <div className='col-md-12 text-center py-5'>
               <h2>Services We Offer</h2>
@@ -70,25 +73,25 @@ export default function Main() {
           <div className='row py-5'>
             <div className='col-md-3'>
               <img src={mainimg} alt='computer' className='offers img-fluid' />
-              <p className='text-muted mt-4'>
+              <p className='text-muted mt-3 text-padding'>
                 Lorem ipsum dolor sit amet consectetur.
               </p>
             </div>
             <div className='col-md-3'>
               <img src={mainimg} alt='computer' className='offers img-fluid' />
-              <p className='text-muted mt-4'>
+              <p className='text-muted mt-3 text-padding'>
                 Lorem ipsum dolor sit amet consectetur.
               </p>
             </div>
             <div className='col-md-3'>
               <img src={mainimg} alt='computer' className='offers img-fluid' />
-              <p className='text-muted mt-4'>
+              <p className='text-muted mt-3 text-padding'>
                 Lorem ipsum dolor sit amet consectetur.
               </p>
             </div>
             <div className='col-md-3'>
               <img src={mainimg} alt='computer' className='offers img-fluid' />
-              <p className='text-muted mt-4'>
+              <p className='text-muted mt-3 text-padding'>
                 Lorem ipsum dolor sit amet consectetur.
               </p>
             </div>
@@ -97,25 +100,25 @@ export default function Main() {
           <div className='row py-5'>
             <div className='col-md-3'>
               <img src={mainimg} alt='computer' className='offers img-fluid' />
-              <p className='text-muted mt-4'>
+              <p className='text-muted mt-3 text-padding'>
                 Lorem ipsum dolor sit amet consectetur.
               </p>
             </div>
             <div className='col-md-3'>
               <img src={mainimg} alt='computer' className='offers img-fluid' />
-              <p className='text-muted mt-4'>
+              <p className='text-muted mt-3 text-padding'>
                 Lorem ipsum dolor sit amet consectetur.
               </p>
             </div>
             <div className='col-md-3'>
               <img src={mainimg} alt='computer' className='offers img-fluid' />
-              <p className='text-muted mt-4'>
+              <p className='text-muted mt-3 text-padding'>
                 Lorem ipsum dolor sit amet consectetur.
               </p>
             </div>
             <div className='col-md-3'>
               <img src={mainimg} alt='computer' className='offers img-fluid' />
-              <p className='text-muted mt-4'>
+              <p className='text-muted mt-3 text-padding'>
                 Lorem ipsum dolor sit amet consectetur.
               </p>
             </div>

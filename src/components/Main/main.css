@@ -18,7 +18,12 @@ ul {
 
 .offers {
   height: auto;
-  width: 300px;
+  width: 400px;
+  padding: 20px;
+}
+
+.text-padding {
+  padding: 20px;
 }
 
 .background-video {
@@ -26,6 +31,7 @@ ul {
   height: auto;
   width: 100%;
   z-index: -1;
+  opacity: 0.6;
 }
 
 .section-two {
