@@ -35,7 +35,9 @@ export default function Main() {
                 className='main-img img-fluid'
               />
             </div>
-            <div className='col-md-6'>
+            <div className='col-md-1'></div>
+
+            <div className='col-md-5'>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem
                 ipsum dicta quis quisquam recusandae atque, magni ducimus. Aut,
