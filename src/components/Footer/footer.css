@@ -2,3 +2,9 @@
   height: 300px;
   background-color: rgb(44, 43, 43);
 }
+
+@media only screen and (max-width: 600px) {
+  .footer {
+    height: 500px;
+  }
+}

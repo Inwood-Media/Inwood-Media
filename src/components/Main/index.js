@@ -61,7 +61,7 @@ export default function Main() {
         </div>
       </section>
 
-      <section className='section-three'>
+      <section className='section-three pt-5 mt-3'>
         <div className='container-fluid mx-auto'>
           <div className='row'>
             <div className='col-md-12 text-center py-5'>
@@ -148,7 +148,9 @@ export default function Main() {
             </div>
             <div className='col-md-6 form-group'>
               <p>Email</p>
-              <input type='email' name='email' className='form-control' />
+              <label>
+                <input type='email' name='email' className='form-control' />
+              </label>
             </div>
           </div>
           <div className='row py-3'>
